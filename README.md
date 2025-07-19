@@ -19,16 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Dev from Bali<br><br>- ⚡ forever young</p>
-<h1 align="left"></h1>
+<h1 align="center">Hey there 👋 I'm Deva</h1>
 
 ###
 
