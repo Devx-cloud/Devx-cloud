@@ -28,6 +28,7 @@
 ###
 
 <p align="left">I'm Dev from Bali<br><br>- ⚡ forever young</p>
+<h1 align="left"></h1>
 
 ###
 
@@ -52,12 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
+<h1 align="left"></h1>
 
 ###
 
 <h3 align="left">🔥   Repo :</h3>
-
-###
 
 <img src="https://raw.githubusercontent.com/Devx-cloud/Devx-cloud/output/snake.svg" alt="Snake animation" />
 
