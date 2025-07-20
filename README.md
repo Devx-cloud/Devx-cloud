@@ -1,3 +1,6 @@
+<h1 align="center">Hey there 👋 I'm Deva</h1>
+
+###
 
 ![header](images/header.png)
 
@@ -19,9 +22,6 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Deva</h1>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
