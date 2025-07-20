@@ -1,6 +1,6 @@
-<div align="center">
-  ![header](images/header.png)
-</div>
+
+![header](images/header.png)
+
 
 ###
 
